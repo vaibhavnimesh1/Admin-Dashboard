@@ -1,0 +1,22 @@
+.maindash {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: column;
+  padding-left: 2rem;
+}
+
+@media screen and (max-width: 769px) {
+  .maindash h1{
+    margin-bottom: 1rem;
+  }
+  .maindash {
+    margin-top: 3rem;
+    padding: 2px 0 2px 2px;
+    display: flex;
+    margin-inline: auto;
+  }
+
+  .CircularProgressbar-path{
+    margin-top: 2rem;
+  }
+}
