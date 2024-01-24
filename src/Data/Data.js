@@ -41,8 +41,7 @@ import {
     {
       icon: UilChart,
       heading: 'Analytics'
-    },
-    {icon:UilSignOutAlt}
+    }
   ];
   
   // Analytics Cards Data
